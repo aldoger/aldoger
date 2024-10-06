@@ -1,4 +1,4 @@
 - 👋 Hi, I’m aldoger
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development, specifically Back End Development
-- ⚡ Fun fact: I can eat 8 pizza slice alone
+- ⚡ Fun fact: I can eat 8 pizza slices alone
