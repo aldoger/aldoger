@@ -1,4 +1,6 @@
-- 👋 Hi, I’m aldoger
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development, specifically Back End Development
-- ⚡ Fun fact: I can eat 8 pizza slices alone
+## Hi, i'm Geraldo
+
+👨‍💻 Software engineering student at Institut Teknologi Sepuluh Nopember
+🌐 Web development enthusiast. A year of learning about web development
+⚙️ Currently work in backend development
+愛 I'm a weeb
