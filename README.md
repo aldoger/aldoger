@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aldoger&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aldoger&theme=tokyonight&hide_border=false)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldoger&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldoger&theme=tokyonight)
 
 
 ## 🏆 GitHub Trophies
