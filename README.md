@@ -24,7 +24,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aldoger&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aldoger&theme=tokyonight&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldoger&layout=compact&theme=tokyonight&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldoger&layout=compact)
 
 
 
