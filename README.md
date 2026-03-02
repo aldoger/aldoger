@@ -30,10 +30,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/aldoger">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aldoger&show_icons=true&theme=algolia&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aldoger&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldoger&show_icons=true&theme=algolia&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldoger&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
