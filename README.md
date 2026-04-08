@@ -39,7 +39,7 @@ i use fedora btw
 
 <a href="https://github.com/aldoger">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aldoger&show_icons=true&theme=algolia&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aldoger&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aldoger&layout=compact&langs_count=7&theme=algolia"/>
 </a>
 
 -----
