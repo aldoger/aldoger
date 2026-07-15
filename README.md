@@ -12,7 +12,8 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 
 i use fedora btw
-![Fedora](https://img.shields.io/badge/-Fedora-05122A?style=flat&logo=fedora&logoColor=white)&nbsp;
+![Fedora](https://img.shields.io/badge/-Fedora-05122A?style=flat&logo=fedora&logoColor=white)&nbsp; and 
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
